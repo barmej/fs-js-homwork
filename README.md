@@ -23,6 +23,6 @@
      <span><a href="https://www.w3schools.com/jsref/jsref_obj_regexp.asp">JavaScript RegExp Reference</a></span></h3>
      <br>
      <hr>
-     <h3>أتمنى لكم رحلة تعليمية ممتعة</h3>
+     <h3 dir="rtl">أتمنى لكم رحلة تعليمية ممتعة</h3>
 
 </body>
